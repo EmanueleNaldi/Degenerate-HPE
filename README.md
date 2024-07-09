@@ -16,7 +16,7 @@ study_InexactDY_vs_DY_vs_FB.ipynb
 
 If you find this code useful, please cite the above-mentioned paper:
 ```BibTeX
-@misc{alves2024generalframeworkinexactsplitting,
+@misc{ALN2024,
       title={A general framework for inexact splitting algorithms with relative errors and applications to Chambolle-Pock and Davis-Yin methods}, 
       author={M. Marques Alves and Dirk A. Lorenz and Emanuele Naldi},
       year={2024},
