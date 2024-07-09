@@ -35,7 +35,7 @@ Please make sure to have the following Python modules installed, most of which s
 * [scipy>=1.6.2](https://pypi.org/project/scipy/)
 * [matplotlib>=3.3.4](https://pypi.org/project/matplotlib/)
 
-## Acknowledgments  
+## Declarations
 
 * All data used for numerical experiments in this project have been created artificially by the authors.
 
